@@ -1,0 +1,13 @@
+{
+  "status": "RECOVERED_FROM_ORIGINAL_EXECUTION_DIRECTORY",
+  "source": "C:\\Users\\User\\Documents\\Codex\\2026-10-02\\referenced-chatgpt-conversation-this-is-an\\outputs\\CUME-novo",
+  "archive": "CUME-NOVO-VALIDADO.zip",
+  "archive_sha256": "f6b9d8c469615ec12fd2716fc07ebd416e2e6599a8161e6fce33ffb8424ded76",
+  "archive_size_bytes": 3292738,
+  "modified_files_matched": 19,
+  "archive_files_verified": 872,
+  "source_unchanged_during_packing": true,
+  "tests_rerun": false,
+  "github_write": false,
+  "historical_full_tree_equivalence": "Not independently established: no historical complete final-tree manifest was supplied. All 19 known modified files match final hashes; archive matches the recovered current directory byte for byte."
+}
